@@ -1,5 +1,8 @@
 Webapp with Create React App and Spring Boot
+  : Client -> React
+  : Server -> Spring Boot 
 ===
+※ 참고 블로그 : https://sundries-in-myidea.tistory.com/71
 
 Developing Spring applications with Spring Boot is a real time saver. It gets you up and running quickly, and 
 continues to make your life easier as you move to production and start releasing incremental updates to your
